@@ -271,7 +271,7 @@ def broken_6(n):
         total = total + (1 / (k + 1))
     return total
 
-
+#Finally, I see you have to finesse with computers
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # -----------------------------------------------------------------------------
